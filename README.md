@@ -1,6 +1,7 @@
 # Py-nergie_demo
 Data Science project on French electricity distribution network
-stremlit demonstration in french language
+
+streamlit demonstration in french language
 
 This project was carried out as part of the end of study work of the Data Scientist Bootcamp Training provided by DataScientest.
 https://datascientest.com/
